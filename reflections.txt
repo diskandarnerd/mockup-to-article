@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+- How to effectively make a tag element, familiar with the Text Editor and navigate through the different elements to implements.
+- it is quite easy once I am able to get used to the whole process of tagging, the whole syntax and programming itself is not that difficult since I have already have some background/history with
+web site. It is just a matter of recalling back some of the key concepts.
+- The difficult part for me is to familiarize myself with the different documentation for HTML and how to read it and write. Especially there are so many elements out there. So getting used to the syntax is key. Getting distracted is also part of the difficulty, especially when i am doing searches on the internet, I could go down the rabbit hole and it takes a while to go back on track :)
+
+
+- It has been good so far, if i could not solve it then i would take a break and try it another day ..rather than be frustrated about it. I also do google searches besides the mozilla websites. Definitely learnt a lot.
